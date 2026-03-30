@@ -136,6 +136,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Databases
+*.duckdb
+*.wal
+*.db
+*.sqlite
+
 # Spyder project settings
 .spyderproject
 .spyproject
