@@ -23,13 +23,14 @@
 * Pandas - EDA, Data cleaning, data analysis, data transformations
 * FastAPI - REST API, CRUD
 * Pydantic - Data validation
-* eget -                     *(ORM - SQLAlchemy, + fler)*
+* eget -                     *(ORM - SQLAlchemy, + fler ifrån egna projekt. Space_bridge, glossary_db, data-lake etc.)*
 
 **Visualization**
 * Matplotlib - Data storytelling
 * Streamlit - BI as code
 * PowerBI
 * Evidence - BI as code
+* Grafana - *Data-lake project*
 
 **Database**
 * SQL
@@ -79,7 +80,7 @@
 - DE:
     - Datahanteringen
     - Visualisering
-        - Techstack:
+        - **Techstack:**
         - Duckdb (DB för storage)
         - Pandas (Data manipulation)
         - PowerBI (Business Intelligence)
