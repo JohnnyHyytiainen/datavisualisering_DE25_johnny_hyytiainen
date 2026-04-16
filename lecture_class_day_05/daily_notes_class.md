@@ -19,7 +19,14 @@ Fokus på kod-kvalite när det kommer till streamlit.
 Kom överens med UX, visa att t.ex "Så här tråkigt är streamlit. Vart vill ni ha diagram X och Y etc etc"
 
 ---
+## KPIs
+KPIs för att tracka en organisations business objectives. Vad vill vi tracka.
 
-## Prat i klass
-- KPI.
+- Exempel:
+Investors - ROI, 
+Marketing - Social media metrics, User engagement
+Founder - User engagement, CHURN
+Regulatory - % of employees completing data sec training
+
+---
 
