@@ -11,3 +11,5 @@ jobba med projekt
 
 ## Data storytelling - Lecture 10_storytelling_matplotlib
 
+Förenklad data journey in data analysis and visualization.
+Från exploratory data analysis till explanatory data analysis
