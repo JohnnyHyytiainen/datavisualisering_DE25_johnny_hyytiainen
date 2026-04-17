@@ -1,4 +1,4 @@
-# Class daily notes, lesson 04. 10/04/2026
+# Class daily notes, lesson 04. 16/04/2026
 Agenda:
 
 - Torsdag 16/04-2026
