@@ -13,6 +13,7 @@ dependencies = [
     "plotly>=6.6.0",
     "pyarrow>=23.0.1",
     "seaborn>=0.13.2",
+    "streamlit>=1.56.0",
 ]
 
 [dependency-groups]
